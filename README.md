@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **NLP, ML, AI**
 
-- 📫 How to reach me **yadav@gmail.com**
+- 📫 How to reach me **anuragyadav807780@gmail.com**
 
 - ⚡ Fun fact **I am always eager to learn new technologies**
 
