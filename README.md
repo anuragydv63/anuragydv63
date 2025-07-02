@@ -6,18 +6,18 @@
 <h3 align="center">🚀 Data Science | 🛠️ AI Tools Explorer | 🛡️ Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Booting...+A.N.U.R.A.G.;Artificial+Neural+Universal+Robotics+Automation+Generation;Data+Scientist+Mode+Activated..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Booting...+A.N.U.R.A.G.;+Artificial+Neural+Universal+Robotics+Automation+Generation;Data+Scientist+Mode+Activated..." />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 📚 Currently interning at **NIELIT**, learning **Data Curation**
+- 📚 Currently interning at **NIELIT**, learning **Data annotation**
 - 🔍 Exploring **DeepSeek, RunwayML, Google Colab**
 - 💡 Basic knowledge of **Python**, **C++**, **HTML/CSS**
 - 🔐 Interests: **Data Science**, **AI Tools**, **Cybersecurity**
-- 🎯 Dream Project: **Personal AI Assistant (P.A.N.K.U.)**
+- 🎯 Dream Project:
 - 📫 Mail me: **anuragyadav807780@gamil.com**
 
 ---
@@ -48,12 +48,8 @@
 ### 🌐 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/pankaj-kumar-80b2b331b/" target="_blank">
+  <a href="https://www.https://www.linkedin.com/in/anurag-yadav-868258294/" target="_blank"
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/pankajj__109/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-  </a>
 </p>
 
 ---
