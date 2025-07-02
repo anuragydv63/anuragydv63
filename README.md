@@ -32,7 +32,6 @@
   <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
   <img src="https://img.shields.io/badge/RunwayML-black?style=for-the-badge&logo=runway&logoColor=white"/>
   <img src="https://img.shields.io/badge/DeepSeek-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </p>
 
 ---
@@ -61,9 +60,9 @@
 
 ### 📌 What I'm Doing
 
-- 💼 Internship: **NIELIT - Data Curation**
+- 💼 Internship: **NIELIT - Data annotation**
 - 🤖 Playing with: **DeepSeek, RunwayML, Colab**
-- 📊 Projects: **Student Analyzer**, **Local Resource Finder**
+- 📊 Projects: **python converter**,**AL Career buddy**
 - 🛡️ Learning about **Cybersecurity** tools and threats
 
 ---
