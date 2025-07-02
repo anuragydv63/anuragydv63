@@ -6,7 +6,7 @@
 <h3 align="center">🚀 Data Science | 🛠️ AI Tools Explorer | 🛡️ Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Booting...+P.A.N.K.U.;Personalized+Artificial+Neural+Knowledge+Unit;Data+Scientist+Mode+Activated..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Booting...+ANURAG;Personalized+Artificial+Neural+Knowledge+Unit;Data+Scientist+Mode+Activated..." />
 </p>
 
 ---
