@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Anurag Yadav</h1>
-<h3 align="center">🚀 Data Science | 🛠️ AI Tools Explorer | 🛡️ Cybersecurity Enthusiast</h3>
+<h3 align="center">🚀 Data Scientist | 🛠️ AI Tools Explorer | 🛡️ Cybersecurity Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Booting...+A.N.U.R.A.G.;+Artificial+Neural+Universal+Robotics+Automation+Generation;Data+Scientist+Mode+Activated..." />
@@ -13,12 +13,12 @@
 
 ### 👨‍💻 About Me
 
-- 📚 Interning at **NIELIT**, focusing on **Data Annotation**
-- 🤖 Exploring **DeepSeek**, **RunwayML**, **Google Colab**
+- 📚 Currently interning at **NIELIT**, specializing in **Data Annotation** and **Smart Systems**
+- 🤖 Passionate about tools like **DeepSeek**, **RunwayML**, and **Google Colab**
 - 💡 Building real-world AI projects using **Python** and **C++**
-- 🔐 Passionate about **Cybersecurity** and automation tools
-- 🎯 Long-term goal: Create my own AI assistant — **A.N.U.R.A.G.**
-- 📫 Reach out: `anuragyadav807780@gmail.com`
+- 🔐 Exploring **Cybersecurity** and automation to improve digital safety
+- 🎯 Goal: Develop my own AI assistant — **A.N.U.R.A.G.**
+- 📫 Reach me: **anuragyadav807780@gmail.com**
 
 ---
 
@@ -36,12 +36,18 @@
 
 ---
 
-### 📌 What I'm Doing
+### 📌 Current Projects
 
-- 💼 Internship at **NIELIT** – Working on Smart Systems with AI
-- 🔬 Experimenting with tools like **DeepSeek**, **Colab**, **RunwayML**
-- 📊 Projects: `Python Code Converter`, `AI Career Buddy`, `Smart Classroom Monitor`
-- 🧠 Studying cybersecurity frameworks and threats
+- 💼 **Internship at NIELIT** – Working on Smart Systems powered by AI
+- 🔬 Exploring:
+  - **DeepSeek** for intelligent data interaction
+  - **Google Colab** for collaborative ML coding
+  - **RunwayML** for creative and visual AI tools
+- 📊 Projects:
+  - `Python Code Converter` – Convert code between multiple languages
+  - `AI Career Buddy` – Your personal career mentor powered by AI
+  - `Smart Classroom Monitor` – AI-based real-time student monitoring system
+- 🧠 Learning: Threat modeling & cybersecurity principles
 
 ---
 
@@ -54,13 +60,28 @@
   <a href="https://www.linkedin.com/in/anurag-yadav-868258294/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://github.com/anuragydv63" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ### 🧠 Fun Fact
 
-I believe in building intelligent solutions that simplify lives using AI & creativity 💡  
-Let’s connect and create something awesome! 🚀
+I believe in building smart, practical, and meaningful tech with creativity 💡  
+Let’s connect and build something awesome together! 🚀
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anuragydv63&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="Anurag's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragydv63&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragydv63&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
 
 ---
