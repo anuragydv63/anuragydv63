@@ -16,7 +16,7 @@
 - 📚 Currently interning at **NIELIT**, learning **Data annotation**
 - 🔍 Exploring **DeepSeek, RunwayML, Google Colab**
 - 💡 Basic knowledge of **Python**, **C++**, **HTML/CSS**
-- 🔐 Interests: **Data Science**, **AI Tools**, **Cybersecurity**
+- 🔐 Interests: **Data Science**, **AI Tools**
 - 🎯 Dream Project:
 - 📫 Mail me: **anuragyadav807780@gamil.com**
 
@@ -63,16 +63,3 @@ Future goal: **Build my own intelligent assistant** 🤖
 
 ---
 
-### 📂 My Projects on Google Colab
-
-<p align="center">
-  <a href="https://colab.research.google.com/drive/1EJB6ZcL9G3RgOTwy4eCU1VrMavcvXnjp?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Open%20Project%20in%20Colab-%23007ACC?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=pankaj-109&theme=react-dark" alt="GitHub activity graph"/>
-</p>
