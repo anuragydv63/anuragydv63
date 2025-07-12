@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Anurag Yadav</h1>
@@ -13,12 +13,12 @@
 
 ### 👨‍💻 About Me
 
-- 📚 Currently interning at **NIELIT**, learning **Data annotation**
-- 🔍 Exploring **DeepSeek, RunwayML, Google Colab**
-- 💡 Basic knowledge of **Python**, **C++**, **HTML/CSS**
-- 🔐 Interests: **Data Science**, **AI Tools**
-- 🎯 Dream Project:
-- 📫 Mail me: **anuragyadav807780@gamil.com**
+- 📚 Interning at **NIELIT**, focusing on **Data Annotation**
+- 🤖 Exploring **DeepSeek**, **RunwayML**, **Google Colab**
+- 💡 Building real-world AI projects using **Python** and **C++**
+- 🔐 Passionate about **Cybersecurity** and automation tools
+- 🎯 Long-term goal: Create my own AI assistant — **A.N.U.R.A.G.**
+- 📫 Reach out: `anuragyadav807780@gmail.com`
 
 ---
 
@@ -29,37 +29,38 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
   <img src="https://img.shields.io/badge/RunwayML-black?style=for-the-badge&logo=runway&logoColor=white"/>
   <img src="https://img.shields.io/badge/DeepSeek-blue?style=for-the-badge"/>
 </p>
 
 ---
 
+### 📌 What I'm Doing
+
+- 💼 Internship at **NIELIT** – Working on Smart Systems with AI
+- 🔬 Experimenting with tools like **DeepSeek**, **Colab**, **RunwayML**
+- 📊 Projects: `Python Code Converter`, `AI Career Buddy`, `Smart Classroom Monitor`
+- 🧠 Studying cybersecurity frameworks and threats
+
 ---
 
 ### 🌐 Connect With Me
 
-<p>
-  <a href="https://www.https://www.linkedin.com/in/anurag-yadav-868258294/" target="_blank"
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+<p align="left">
+  <a href="mailto:anuragyadav807780@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/anurag-yadav-868258294/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
 </p>
-
----
-
-### 📌 What I'm Doing
-
-- 💼 Internship: **NIELIT - Data annotation**
-- 🤖 Playing with: **DeepSeek, RunwayML, Colab**
-- 📊 Projects: **python converter**,**AL Career buddy**
-- 🛡️ Learning about **Cybersecurity** tools and threats
 
 ---
 
 ### 🧠 Fun Fact
 
-I believe in solving real-life problems with smart code and creativity 💡  
-Future goal: **Build my own intelligent assistant** 🤖
+I believe in building intelligent solutions that simplify lives using AI & creativity 💡  
+Let’s connect and create something awesome! 🚀
 
 ---
-
